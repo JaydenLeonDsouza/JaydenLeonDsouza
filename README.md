@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Jayden D'souza</h1>
 <h3 align="center">HSS Computer Technology Student | Aspiring AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydenleondsouza&label=Profile%20views&color=0e75b6&style=flat" alt="jaydenleondsouza" /> </p>
-
 - currently learning **HTML, PYTHON, CSS, BLENDER**
 
 - How to reach me **jaydenleondsouza@gmail.com**
