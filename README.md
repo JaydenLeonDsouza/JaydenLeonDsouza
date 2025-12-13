@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Jayden D'souza</h1>
 <h3 align="center">HSS Computer Technology Student | Aspiring AI Engineer</h3>
 
+<hr>
+
 - currently learning **HTML, PYTHON, CSS, BLENDER**
 
 - How to reach me **jaydenleondsouza@gmail.com**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
